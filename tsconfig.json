@@ -5,6 +5,7 @@
     "jsx": "react-jsx",
 
     "customConditions": ["react-native-strict-api"],
+
     "baseUrl": ".",
     "paths": {
       "~/*": ["src/*"]
